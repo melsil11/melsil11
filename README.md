@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;I+am+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-[![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)](https://github.com/melsil11/github-readme-stats)
+[![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)]
 <!--
 **melsil11/melsil11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
