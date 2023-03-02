@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;I+am+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-[![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)
+
+![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)
 <!--  removed this immediatley after the ] no space 
 ](https://github.com/melsil11/github-readme-stats) -->
 <!--
