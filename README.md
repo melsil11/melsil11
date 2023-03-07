@@ -10,7 +10,7 @@
 <!--  removed this immediatley after the ] no space 
 ](https://github.com/melsil11/github-readme-stats) -->
 
-🔭 I’m currently working on a website for a new business "Andsersen Hardscapes"
+🔭 I’m currently working on a website for a new business "Andersen Hardscapes"
 🌱 I’m currently learning SaaS
 ⚡ Fun fact: 🌷 I am an exceptional gardener. 👩‍🌾 I love to grow my own food.  
 😄 Pronouns: She/Her
