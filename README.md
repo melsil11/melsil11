@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-%2335BDB2.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://melaniesilva.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-silva-ms)
 
+  ### My Stats
 ![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)
 <!--  removed this immediatley after the ] no space 
 ](https://github.com/melsil11/github-readme-stats) -->
