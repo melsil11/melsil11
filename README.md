@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;I'am+a+Software+Engineer+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;I'm+a+Software+Engineer+✨)](https://git.io/typing-svg)
 
 
 ![Melsil11's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsil11&count_private=trueshow_icons=true&theme=radical)
@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on a website for a new business "Andsersen Hardscapes"
 🌱 I’m currently learning SaaS
-⚡ Fun fact: I am an exceptional gardener. 👩‍🌾I love to grow my own food.  
+⚡ Fun fact: 🌷 I am an exceptional gardener. 👩‍🌾 I love to grow my own food.  
 😄 Pronouns: She/Her
 <!--
 **melsil11/melsil11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
