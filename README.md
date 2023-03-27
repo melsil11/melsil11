@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Full+Stack+Software+Engineer+✨)](https://git.io/typing-svg)
 
   ### Learn About Me
 [![Portfolio](https://img.shields.io/badge/portfolio-%2335BDB2.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://melaniesilva.netlify.app/)
