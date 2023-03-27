@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Full+Stack+Software+Engineer+✨)](https://git.io/typing-svg)
 
   ### Learn About Me
